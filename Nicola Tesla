@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+<h1 class="text-center">Nicola Tesla</h1>
+<h2 class="text-center"><em>The man who built the future</em></h2>
+ <div class="thumbnail"><image src="http://www.popmech.ru/upload/iblock/ffe/ffe1cab69e10886dbd3d929b0271d5bb.jpg"></div>
+   <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h3>Here's a time line of Nicola Tesla's life:</h3>
+     <ul>
+       <li><b>1856</b> - Born in the village of Smiljan, Austrian Empire (modern-day Croatia).</li>
+       <li><b>1861</b> - Tesla attended the "Lower" or "Primary" School in Smiljan where he studied German, arithmetic, and religion.</li>
+       <li><b>1870</b> - Tesla moved to Karlovac, to attend school at the Higher Real Gymnasium, where he was profoundly influenced by a math teacher Martin Sekulić.</li>
+       <li><b>1873</b> - Tesla returned to his birthtown, Smiljan. Shortly after he arrived, Tesla contracted cholera; he was bedridden for nine months and was near death multiple times.</li>
+       <li><b>1874</b> - Tesla evaded being drafted into the Austro-Hungarian Army in Smiljan.</li>
+       <li><b>1875</b> - Tesla enrolled at Austrian Polytechnic in Graz, Austria, on a Military Frontier scholarship.</li>
+       <li><b>1881</b> - Tesla moved to Budapest to work under Ferenc Puskás at a telegraph company, the Budapest Telephone Exchange.</li>
+       <li><b>1882</b> - Tesla began working for the Continental Edison Company in France, designing and making improvements to electrical equipment.</li>
+       <li><b>1884</b> - He relocated to New York City where he was hired by Thomas Edison to work at his Edison Machine Works on Manhattan's lower east side</li>
+       <li><b>1886</b> - After leaving Edison's company Tesla partnered with two businessmen.</li>
+       <li><b>1891</b> - Tesla became a naturalized citizen of the United States.</li>
+       <li><b>1894</b> - Tesla began investigating what he referred to as radiant energy of "invisible" kinds after he had noticed damaged film in his laboratory in previous experiments.</li>
+       <li><b>1899</b> - Tesla moved to Colorado Springs, where he would have room for his high-voltage, high-frequency experiments; his lab was located near Foote Ave. and Kiowa St.</li>
+       <li><b>1900</b> - Tesla began planning the Wardenclyffe Tower facility.</li>
+       <li><b>1902</b> - Tesla's lab operations were moved to Wardenclyffe from Houston Street</li>
+       <li><b>1915</b> - A Reuters news agency report from London had the 1915 Nobel Prize in Physics awarded to Thomas Edison and Nikola Tesla; however, on 15 November, a Reuters story from Stockholm stated the prize that year was being awarded to Sir William Henry Bragg and William Lawrence Bragg "for their services in the analysis of crystal structure by means of X-rays."</li>
+       <li><b>1919-1922</b>Working in Milwaukee for Allis-Chalmers.</li>
+       <li><b>1928</b> - Tesla received his last patent, U.S. Patent 1,655,114, for a biplane capable of taking off vertically (VTOL aircraft) and then be <em>"gradually tilted through manipulation of the elevator devices"</em> in flight until it was flying like a conventional plane.</li>
+       <li><b>1935</b> - Tesla announced a method of transmitting mechanical energy with minimal loss over any terrestrial distance, a related new means of communication, and a method of accurately determining the location of underground mineral deposits.</li>
+       <li><b>1943</b> - dies at the age of 86.</li>
+       <h3>If you have time, you should read more about this incredible human being on his<a href="https://en.wikipedia.org/wiki/Nikola_Tesla"> Wikipedia page.</a></h3>
+       </div>
+      </div>
+    </div> 
+  </div>
+      <footer class="text-center">
+    <hr>
+    <p>Written and coded by <a href="https://www.freecodecamp.com/dominoo71">Stanislav Kostenko</a>.</p>
+  </footer>  
